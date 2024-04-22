@@ -1,5 +1,9 @@
 Changelog for Config Button
 
+2.1
+Added the button to all toolbars.
+Set maximum version to Thunderbird 127.*.
+
 2.0
 Set minimum version to Thunderbird 111.0.
 Set maximum version to Thunderbird 116.*.

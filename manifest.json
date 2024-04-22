@@ -3,7 +3,7 @@
   "name": "Config Button",
   "description": "Adds a Config button, opens about:config in a dialog or a tab",
   "homepage_url": "https://addons.thunderbird.net/en-US/thunderbird/addon/config-button/",
-  "version": "2.0",
+  "version": "2.1",
   "experiment_apis": {
     "configButtonApi": {
       "schema": "schema.json",
