@@ -31,7 +31,7 @@
     "default_icon": "configButton.svg",
     "allowed_spaces": []
   },
-  "applications": {
+  "browser_specific_settings": {
     "gecko": {
       "id": "configButton@dillinger",
       "strict_min_version": "111.0",
