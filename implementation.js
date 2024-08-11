@@ -1,5 +1,4 @@
-var ExtensionCommon = globalThis.ExtensionCommon || ChromeUtils.import("resource://gre/modules/ExtensionCommon.jsm");
-var Services = globalThis.Services || ChromeUtils.import("resource://gre/modules/Services.jsm");
+var { ExtensionCommon } = ChromeUtils.importESModule("resource://gre/modules/ExtensionCommon.sys.mjs");
 
 var configButtonApi = class extends ExtensionCommon.ExtensionAPI {
   getAPI(context) {
