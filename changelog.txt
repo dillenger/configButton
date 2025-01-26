@@ -2,6 +2,8 @@ Changelog for Config Button
 
 2.2
 ESMified the add-on.
+Set minimum version to Thunderbird 115.0.
+Set maximum version to Thunderbird 136.*.
 
 2.1
 Added the button to all toolbars.
